@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ED908&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=2EF72C&width=435&lines=Good+night%2C+My+friend!;I'm+a+Full+Stack+Developer+from+Brazil!;See+ya!)](https://git.io/typing-svg)
+
 <h2 align="left">Skills</h2>
 
 ###
@@ -21,7 +25,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="30" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="30" alt="MUI logo"  />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)" />
 </div>
 
 ###
